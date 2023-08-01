@@ -1,4 +1,8 @@
-### Hi there 👋
+Opa, me chamo Lia, 
+Tenho 16 anos,
+Estou cursando atualmente o novo ensino médio.
+
+
 
 <!--
 **liazoca/liazoca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+!(https://tenor.com/pt-BR/view/mbb-monkey-baby-business-heart-gif-27620174)
